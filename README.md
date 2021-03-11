@@ -7,9 +7,5 @@ O objetivo da criação deste portfólio é de documentar o aprendizado prático
 Relação de Desafios:
 - [X] [Módulo 1](Solucao_Desafio1.ipynb)
 - [X] [Módulo 2](Solucao_Desafio2.ipynb)
-- [ ] Módulo 3
-- [ ] Módulo 4
-- [ ] Módulo 5
-- [ ] Módulo 6
 
 <br> [Notebooks](Arquivos_Professor) disponibilizados durante Bootcamp
